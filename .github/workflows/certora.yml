@@ -27,6 +27,7 @@ jobs:
           - Liveness
           - Reentrancy
           - Reverts
+          - RoundingDecreasing
           - StayHealthy
           - Transfer
 
